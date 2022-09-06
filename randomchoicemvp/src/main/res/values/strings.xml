@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RandomChoiceMVP</string>
+    <string name="button_start_generated">Начать выбор</string>
+    <string name="button_add_text_in_list">Добавить в список</string>
+    <string name="button_clear_list">Очистить список</string>
+    <string name="start_title">Тут будет отображен выбранный текст из списка</string>
+    <string name="text_info_list">Список. Добавьте слова для рандомного выбора.</string>
+</resources>
