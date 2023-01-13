@@ -7,7 +7,7 @@ import android.view.View
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.randomchoice.databinding.ActivityMainBinding
-
+//test commit
 class MainActivity : AppCompatActivity(), OnTextClickListener {
     private lateinit var textAdapter: TextAdapter
     private lateinit var textDao: TextDatabase
