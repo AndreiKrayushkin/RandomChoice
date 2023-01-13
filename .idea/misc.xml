@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2234375" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/app/src/main/res/layout/activity_main.xml" value="0.300561797752809" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/app/src/main/res/layout/text_item.xml" value="0.1" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/otherapp/ranomchoicemvvvdagger2/src/main/res/layout/activity_main.xml" value="0.5359375" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/otherapp/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoicemvc/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoicemvvm/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoicemvvmdagger2/src/main/res/drawable/ic_baseline_close_24.xml" value="0.4295" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoicemvvmdagger2/src/main/res/layout/activity_main.xml" value="0.55" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoicemvvmdagger2/src/main/res/layout/text_item.xml" value="0.55" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoisemvp/src/main/res/layout/activity_mvp.xml" value="0.3625" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoisemvpmoxy/src/main/res/drawable-v24/ic_baseline_close_24.xml" value="0.2015" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoisemvpmoxy/src/main/res/layout/activity_mvp.xml" value="0.3625" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoisemvpmoxy/src/main/res/layout/activity_mvpmoxy.xml" value="0.3625" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoisemvpmoxy/src/main/res/layout/text_item.xml" value="0.184375" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoisemvvm/src/main/res/drawable/ic_baseline_close_24.xml" value="0.3015" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoisemvvm/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/Andrei Krayushkin/AndroidStudioProjects/RandomChoice/randomchoisemvvm/src/main/res/layout/text_item.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="androidx.room.Dao" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
